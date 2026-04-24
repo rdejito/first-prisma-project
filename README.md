@@ -40,4 +40,12 @@ After `npm install`, you could try running the script.ts using:
 npm run dev
 ```
 
-Or maybe you want to change it? Feel free to edit your `package.json`
+Or maybe you want to change it? Feel free to edit your `package.json`.
+
+After all of those, you need to install prisma
+```
+npm install prisma @types/pg --save-dev
+npm install @prisma/client @prisma/adapter-pg pg dotenv
+```
+
+If you want start fresh? Refer to the official docs.
