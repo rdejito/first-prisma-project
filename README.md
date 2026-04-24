@@ -32,8 +32,11 @@ DATABASE_URL="postgresql://username:randompassword@localhost:5432/mydb?schema=pu
 ```
 
 `username`: your postgresql username
+
 `randompassword`: the password of your username
+
 `port`: the port of your database
+
 `mydb`: name of your database
 
 After `npm install`, you could try running the script.ts using:
@@ -52,4 +55,5 @@ npm install @prisma/client @prisma/adapter-pg pg dotenv
 ```
 
 If you want start fresh? Refer to the official docs.
+
 _(I deeply encourage you to just refer to the official docs as my directions are... something...)_
