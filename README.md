@@ -10,6 +10,7 @@
 ### How to use?
 
 If you'd like to try, download the code above, zip it.
+
 Or you can clone it in your local. Choose your pick.
 
 After you've done it, run `npm install` to install the dependencies for the code.
@@ -21,6 +22,7 @@ After you've done it, run `npm install` to install the dependencies for the code
 If you've ever encounter some problems. Feel free to read the official docs about Prisma
 
 You can use `SQLite` or `PostgreSQL`.
+
 _Note: For this you need PostgreSQL installed._
 
 Then create an .env file with this inside:
