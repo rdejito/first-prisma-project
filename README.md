@@ -33,9 +33,9 @@ DATABASE_URL="postgresql://username:randompassword@localhost:5432/mydb?schema=pu
 
 `username`: your postgresql username
 
-`randompassword`: the password of your username
+`randompassword`: your postgresql password
 
-`port`: the port of your database
+`localhost:5432`: your host and port
 
 `mydb`: name of your database
 
